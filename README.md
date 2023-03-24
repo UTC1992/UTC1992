@@ -9,5 +9,5 @@ I would like to participate in projects at an international level, and get invol
 I am passionate about sports as it keeps me healthy and ready to interact with this technology-filled world in which I operate.
 
 - 📫 How to reach me by email omar.guanoluisa25@gmail.com
-- This is my profile in linkdin <a href="[https://linkedin.com/in/omar](https://www.linkedin.com/in/omarguanoluisaarciniega/)" target="blank">Omar Guanoluisa</a> 
+- This is my profile in linkdin <a href="https://www.linkedin.com/in/omarguanoluisaarciniega/" target="blank">Omar Guanoluisa</a> 
 
