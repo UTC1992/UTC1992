@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UTC1992
 
-I have been worked as Full Stack developer for about 6 years with experience in web and mobile development. I am interested in constantly learning and generating solutions that help people or companies to solve problems and streamline processes, I work with technologies such as ReactJS, ReactNative, Next JS, Nest JS, NodeJS, MySql, Android Kotlin among others.
+I have been worked as Full Stack developer for about 7+ years with experience in web and mobile development. I am interested in constantly learning and generating solutions that help people or companies to solve problems and streamline processes, I work with technologies such as ReactJS, ReactNative, Next JS, Nest JS, NodeJS, MySql, Android Kotlin among others.
 
 I am currently working on the create of a platform in order to know the skills necessary that employers are searching actually among other things, with technologies such as ReactJS, Material UI, Node Js, Graphql, Apollo, we hope to soon have a Minimum Viable Product.
 
